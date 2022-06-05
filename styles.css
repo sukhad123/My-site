@@ -1,0 +1,150 @@
+body {
+    background-color: #F9EBC8 ;
+    margin-top: 200px;
+    text-align:center;
+    font-family:'Merriweather',serif;
+    color:#40514E
+}
+h1 {
+    margin-top:50px;
+    margin-bottom: 0px;
+    font-family:'Sacramento',serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+     padding-bottom: 10px;
+}
+h2{
+    margin-top: 30px;
+    color: #66BFBF;
+    
+}
+h3{
+    margin-top: 30px;
+    color: #66BFBF;
+}
+.first{ /* the programmer line  */
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #66BFBF;
+}
+.upper-cloud{
+   
+    width: 15%;
+    height:100px;
+    position:absolute;
+    top: 80px;
+    right: 170px;
+    
+}
+
+.lower-cloud{
+         
+        width: 15%;
+        position:absolute;
+        left: 170px;
+        height:100px;
+        top:400px;}
+.mountain{
+    height: 400px;
+    right: 100px;
+    top: 150px;
+    border-bottom: 10px;
+  
+}
+.picture{
+    border-radius: 100%;
+    height:150px;
+}
+.skills{
+border-radius: 100%;
+height: 150px;
+background-color: beige;
+float: left;
+margin-left: 0;
+        margin-right: 30px;
+}
+hr{
+     
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+}
+.python{
+    margin-bottom: 0px; 
+}
+.C{
+    margin-top: 0px;
+}
+.bike{
+    border-radius: 100%;
+    height:150px;
+    width:150px;
+    float:left;
+    margin-right: 30px;
+   
+
+}
+.github{
+    height:20px;
+    color:#11999E;
+}
+.links{
+    color:#11999E;
+    height: 5px;
+
+}
+.Last{    font-size: 10px;
+}
+.middle-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+     
+    
+}
+.skills-container{
+     
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;   
+    
+    
+}
+
+     
+.last-container{
+    
+    width:50%;
+     margin: 150px auto auto auto;
+     text-align:left;
+}
+.dirtsukhad{
+    width:50%;
+    margin:0px auto 100px auto;
+    text-align:left;
+}
+.contacts{
+    display:inline-block;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+.contactme{
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.color{
+    background-color:#AD8B73;
+}
+.intro{
+    width:30%;
+    margin: auto;
+}
+a{
+text-decoration:none;
+}
+a:hover{
+    color:#40514E;
+}
